@@ -1,5 +1,4 @@
-# CodeAlpha_PowerBI
-CodeAlpha Power BI Internship Projects
+
 # CodeAlpha Power BI Internship Projects
 
 Welcome to my **Power BI Internship Projects** repository completed as part of the **CodeAlpha Internship Program**.
